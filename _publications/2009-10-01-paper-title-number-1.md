@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Uncooled self-powered hemispherical biomimetic pit organ for mid-to long-infrared imaging"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Infrared vision is highly desirable for applications in multifarious fields. Of the few species with this visual capability, snakes have exceptional infrared perception with the assistance of pit organs. Inspired by the pit organ design we present here a hemispherical biomimetic infrared imaging device. The devices use high-density ionic thermoelectric polymer nanowire arrays that serve as the sensing nerve cells. The individual nanowires exhibit notable voltage response to temperature variation in test objects. An infrared sensor array with 625 pixels on the hemispherical substrate is successfully demonstrated with an ultrawide field of view up to 135°. The device can image body temperature objects without a cooling system and external power supply. This work opens up opportunities for the design and fabrication of bioinspired infrared imaging devices based on emerging ionic thermoelectric materials.'
+date: 2022-08-31
+venue: 'Science Advances'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ding et al. &quot;Uncooled self-powered hemispherical biomimetic pit organ for mid-to long-infrared imaging.&quot; <i>Sci. Adv. </i> 8, eabq8432 (2022)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Infrared vision is highly desirable for applications in multifarious fields. Of the few species with this visual capability, snakes have exceptional infrared perception with the assistance of pit organs. Inspired by the pit organ design we present here a hemispherical biomimetic infrared imaging device. The devices use high-density ionic thermoelectric polymer nanowire arrays that serve as the sensing nerve cells. The individual nanowires exhibit notable voltage response to temperature variation in test objects. An infrared sensor array with 625 pixels on the hemispherical substrate is successfully demonstrated with an ultrawide field of view up to 135°. The device can image body temperature objects without a cooling system and external power supply. This work opens up opportunities for the design and fabrication of bioinspired infrared imaging devices based on emerging ionic thermoelectric materials.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ding et al., <i>Sci. Adv. </i> 8, eabq8432 (2022).
