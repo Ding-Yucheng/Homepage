@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Chemistry, Nanjing University, China, 2016
+* Ph.D. in Microelectronics, The Hong Kong University of Science and Technology, Hong Kong, China, 2024 (expected)
+* Summer Session and One-semester Exchange, UC, Berkeley, United States, 2018
 
-Work experience
+Research and Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020/08 –  present: Ph.D. Research
+  * The Hong Kong University of Science and Technology, Hong Kong, China 
+  * Project: Electronics devices based on nanostructures
+  * Supervisor: Prof. Zhiyong Fan  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019/03 - 2019/08: Research Assistant
+  * Lawrence Berkeley National Laboratory, Berkeley, CA
+  * Project: Interface-modified high-efficiency perovskite solar cells
+  * Supervisor: Prof. Thomas P. Russell
+
+* 2017/08 – 2018/08: Research Assistant
+  * School of Chemistry and Chemical Engineering, Nanjing University, China
+  * Project: All-inorganic perovskite solar cells
+  * Supervisor: Prof. Zhong Jin & Prof. Jie Liu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C++ (familiar), python (beginner)
+  * Basic algorithms
+* Embedded Development
+  * Verilog (beginner)
+  * PCB design (with Altium Designer)
+  * MicroPython for ESP32 (beginner)
+* 3D modeling
+  * Softwares: 3ds MAX, fusion 360
 
 Publications
 ======
@@ -42,18 +50,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
