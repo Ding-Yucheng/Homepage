@@ -22,12 +22,12 @@ Programming
 
 Rating for weekly contest: 1549 (goal for 2022: 2000)  
 
-https://leetcode.cn/u/ycding_hkust/
+<https://leetcode.cn/u/ycding_hkust/>
 
 **Verilog: HDLBits**  
 
 13/182
 
-For more info
+Contact
 ======
-Please email to yucheng.ding@connect.ust.hk for more info.
+Please email to <yucheng.ding@connect.ust.hk> for more info.
