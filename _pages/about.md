@@ -24,7 +24,8 @@ Rating for weekly contest: 1549 (goal for 2022: 2000)
 
 https://leetcode.cn/u/ycding_hkust/
 
-**Verilog: HDLBits**
+**Verilog: HDLBits**  
+
 13/182
 
 For more info
