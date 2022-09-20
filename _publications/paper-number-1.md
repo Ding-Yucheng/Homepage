@@ -12,4 +12,5 @@ Infrared vision is highly desirable for applications in multifarious fields. Of 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Ding et al., <i>Sci. Adv. </i> 8, eabq8432 (2022).
+Recommended citation:  
+**Ding et al.**, **<i>Sci. Adv. </i>** 8, eabq8432 (2022).
