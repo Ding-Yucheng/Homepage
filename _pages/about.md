@@ -18,9 +18,9 @@ Programming
 ------
 **Leetcode (with C++)**  
 
-320 questions solved (goal for 2022: 500)  
+367 questions solved (goal for 2022: 500)  
 
-Rating for weekly contest: 1549 (goal for 2022: 2000)  
+Rating for weekly contest: 1628 (goal for 2022: 2000)  
 
 <https://leetcode.cn/u/ycding_hkust/>
 
